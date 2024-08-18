@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 931d2f4aef52fa247a740ca00b06ecfa, type: 3}
+  m_Name: Azure Demoiselle Fish
+  m_EditorClassIdentifier: 
+  fishName: Azure Demoiselle Fish
+  description: Despite its small size, this fish is known to be a fearless defender
+    of its territory and will not hesitate to attack much larger fish or even divers
+    if they encroach on its space.
+  pointScore: 100
+  fishPortrait: {fileID: 21300000, guid: 0b3c61a2d944bc6449fb8f0b9d62f11a, type: 3}
+  catchWidth: 30
+  fillSpeed: 3
+  spawnChance: 20
+  rarity: 0
+  cbarDistance: 3
+  cbarSpeed: 3
+  cbarTime: 1

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 931d2f4aef52fa247a740ca00b06ecfa, type: 3}
+  m_Name: Foxfish
+  m_EditorClassIdentifier: 
+  fishName: Foxfish
+  description: The Australian spotted wobbegong, also known as the foxfish, is a
+    type of shark that can change the color of its skin to match its surroundings.
+  pointScore: 250
+  fishPortrait: {fileID: 21300000, guid: de311eebefed3d94b90ac05adb11c976, type: 3}
+  catchWidth: 60
+  fillSpeed: 2.5
+  spawnChance: 10
+  rarity: 1
+  cbarDistance: 5
+  cbarSpeed: 5
+  cbarTime: 2

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 931d2f4aef52fa247a740ca00b06ecfa, type: 3}
+  m_Name: Great White
+  m_EditorClassIdentifier: 
+  fishName: Great White
+  description: Great white sharks are known to breach the water, launching their
+    entire body into the air, sometimes reaching heights of up to 10 feet (3 meters)
+    above the surface!
+  pointScore: 1000
+  fishPortrait: {fileID: 21300000, guid: 108c628c4a03e4840bfdeacfbd1a7ebd, type: 3}
+  catchWidth: 100
+  fillSpeed: 2
+  spawnChance: 1
+  rarity: 3
+  cbarDistance: 10
+  cbarSpeed: 10
+  cbarTime: 7

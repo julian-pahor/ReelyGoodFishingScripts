@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 931d2f4aef52fa247a740ca00b06ecfa, type: 3}
+  m_Name: Yellowtail Amberjack
+  m_EditorClassIdentifier: 
+  fishName: Yellowtail Amberjack
+  description: The yellowtail amberjack is a popular sport fish in Japan, where it
+    is known as hamachi and often served as sushi or sashimi.
+  pointScore: 500
+  fishPortrait: {fileID: 21300000, guid: 5dcd3178a5a4b68479920317fc4ff3d7, type: 3}
+  catchWidth: 100
+  fillSpeed: 2
+  spawnChance: 3
+  rarity: 2
+  cbarDistance: 7
+  cbarSpeed: 7
+  cbarTime: 5
